@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20AI%20PyTorch.png"
     width="100%"
