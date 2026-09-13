@@ -206,7 +206,7 @@ Integrated AI capabilities into software platforms through ML model development,
 
 <div align="center">
 
-# ⚛️ <a href="https://github.com/Dreamerol/PORTFOLIO">AI MODELS ∫ APPLIED MACHINE LEARNING</a>
+# ⚛️ <a href="https://github.com/Dreamerol/PORTFOLIO">𝗔𝗜 𝗠𝗢𝗗𝗘𝗟𝗦 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
 
 
 </div>
